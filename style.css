@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Logo, .Top_menu{
+    display: inline-block;
+    margin-right: 25px;
+}
+.Top_menu li{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 25px; 
+}
+.Top_menu a{
+    font-family: arial;
+    color: green;
+    vertical-align: middle;
+}
+.Top_menu a:hover{
+    color: yellow;
+
+}
+.Logo{
+    vertical-align: middle;
+}
+.Brawlers a:hover{
+    color: yellow;
+}
